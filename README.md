@@ -1,0 +1,2 @@
+# jewelry
+All jewelry projects
